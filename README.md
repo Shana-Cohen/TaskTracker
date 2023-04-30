@@ -6,4 +6,4 @@ The home page has a list of all incomplete tasks, and the ability to add new tas
 
 When the user that chose a task completes a task, they can mark the status of the task as"Complete" and that task disappears from the table for all users.
 
- This program usees React, Entity Framework and SignalR.
+ This program uses React, Entity Framework and SignalR.
