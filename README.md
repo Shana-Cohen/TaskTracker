@@ -1,4 +1,5 @@
 # TaskTracker
+Objective:
 
 This application is intented for multiple users to add and complete tasks. Users can login/signup and the home page is only accessible to logged in users.
 
@@ -6,4 +7,6 @@ The home page has a list of all incomplete tasks, and the ability to add new tas
 
 When the user that chose a task completes a task, they can mark the status of the task as"Complete" and that task disappears from the table for all users.
 
- This program uses React, Entity Framework and SignalR.
+Solution:
+
+The backend of this application is written in C# using ASP.Net Core with React framework. It is connected to a SQL Server Management Studio database via Entity Framework Core. The frontend code is written in JavaScript using the React and SignalR libraries. 
