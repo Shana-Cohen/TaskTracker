@@ -9,4 +9,6 @@ When the user that chose a task completes a task, they can mark the status of th
 
 Solution:
 
-The backend of this application is written in C# using ASP.Net Core with React framework. It is connected to a SQL Server Management Studio database via Entity Framework Core. The frontend code is written in JavaScript using the React and SignalR libraries. 
+The backend of this web application was developed using C# programming language and ASP.Net Core framework, integrated with React for efficient UI rendering.
+Framework Core is utilized to connect the backend to a SQL Server Management Studio database, enabling seamless data access and manipulation.
+The frontend of the application is designed with JavaScript, utilizing the React and SignalR libraries to achieve real-time communication and dynamic UI features.
